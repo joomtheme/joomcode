@@ -16,7 +16,7 @@
         <client>site</client>
         <version>1.1.0</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/joomtheme/JoomCode/main/releases/plg_content_joomcode-1.1.0.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/joomtheme/JoomCode/main/releases/v1.1.0/plg_content_joomcode-1.1.0.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
@@ -27,7 +27,5 @@
         <targetplatform name="joomla" version="((5\.[0-9]+)|(6\.[0-9]+))" />
         <php_minimum>8.1</php_minimum>
         <sha256>96d71d89f6a126ed7dfc899a4b6cc1d456528d81ea9759c658d8e5f515c6efbf</sha256>
-        <sha384>8e027f91b9ae1c087ad6dfc7e7b26160ea75b92f863901dc110045934be9e33e468dece500dc2ea215c4cd93ee26fdaa</sha384>
-        <sha512>a47033703b6b8ed76be5006d5e0c6b0b45fdb6572da5f7db2e10c6f819083c3911dd099477f97d39773741ab74e88de8eab57585e83520d28c6604b0f4481489</sha512>
     </update>
 </updates>
