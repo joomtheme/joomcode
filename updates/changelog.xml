@@ -1,1 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  @package     JoomCode
+  @subpackage  plg_content_joomcode
 
+  @copyright   Copyright (C) 2026 JoomTheme. All rights reserved.
+  @license     GNU General Public License version 2 or later; see LICENSE.txt
+-->
+<changelogs>
+    <changelog>
+        <element>joomcode</element>
+        <type>plugin</type>
+        <version>1.1.0</version>
+        <addition>
+            <item>Added GitHub-style light, dark and automatic themes.</item>
+            <item>Added syntax highlighting for markup, PHP, CSS and JavaScript.</item>
+            <item>Added accessible copy controls, language labels, line numbers, line wrapping and maximum-height settings.</item>
+            <item>Added English and Turkish language files.</item>
+            <item>Added Joomla Web Asset Manager integration.</item>
+        </addition>
+        <fix>
+            <item>Preserved PHP opening tags when normalising editor-escaped nested code blocks.</item>
+        </fix>
+        <change>
+            <item>Prepared the installation package, GPL notices and update metadata for JED review.</item>
+        </change>
+    </changelog>
+</changelogs>
